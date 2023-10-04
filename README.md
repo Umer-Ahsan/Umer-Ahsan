@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umer-Ahsan
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Web designing and App development using Flutter.
+- 🌱 I’m currently a freelancer in App development using Flutter.
 
 
 <!---
